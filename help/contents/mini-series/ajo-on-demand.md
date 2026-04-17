@@ -3,7 +3,7 @@ title: AJO价值实现加速系列
 description: Adobe Journey Optimizer价值实现系列指导团队通过明确的价值战略激活实时、个性化的参与。 这些会议涵盖用例路线图、架构、操作模型和组织就绪性，以加快实现价值并最大限度地推广AJO。
 solution: Customer Journey Analytics
 hide: true
-source-git-commit: 4f467564ef48ca8b7fef32fddc7ac50a3070fb7c
+source-git-commit: bfbf2983262e37143222d8ece1e23a2c2ab6e81b
 workflow-type: tm+mt
 source-wordcount: '656'
 ht-degree: 0%
@@ -145,3 +145,4 @@ CARDS  ****
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+

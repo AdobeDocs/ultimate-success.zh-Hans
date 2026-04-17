@@ -3,7 +3,7 @@ title: CJA价值实现加速系列
 description: 这个按需提供的Customer Journey Analytics系列可帮助企业构建价值驱动的测量策略，将客户数据转化为可信的洞察和可衡量的业务成果。
 solution: Customer Journey Analytics
 hide: true
-source-git-commit: 4f467564ef48ca8b7fef32fddc7ac50a3070fb7c
+source-git-commit: bfbf2983262e37143222d8ece1e23a2c2ab6e81b
 workflow-type: tm+mt
 source-wordcount: '581'
 ht-degree: 0%
@@ -147,3 +147,4 @@ CARDS  ****
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+

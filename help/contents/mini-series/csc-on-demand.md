@@ -3,7 +3,7 @@ title: 内容Supply chain价值实现系列
 description: 本系列探讨如何从规划到测量，实现内容supply chain的现代化。 会议重点介绍体系结构、运营模型、执行支持和变更管理的实用方法，以提高效率、扩展内容运营并提供可衡量的成果。
 topic: Content Supply Chain
 hide: true
-source-git-commit: 4f467564ef48ca8b7fef32fddc7ac50a3070fb7c
+source-git-commit: bfbf2983262e37143222d8ece1e23a2c2ab6e81b
 workflow-type: tm+mt
 source-wordcount: '590'
 ht-degree: 0%
@@ -147,3 +147,4 @@ CARDS  ****
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
