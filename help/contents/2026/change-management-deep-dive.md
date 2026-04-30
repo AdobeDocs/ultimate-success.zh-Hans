@@ -26,7 +26,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3486200/?learn=on&enablevpops)
 
-此会话几乎不需要任何准备工作。  您可以选择观看[VRA系列](https://experienceleague.adobe.com/en/docs/ultimate-success/ultimate-success-webinar-library/mini-series/ajo-on-demand)的[变更管理策略](https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/change-management-strategies)录像，支持任何成熟度级别的团队，并确保每位与会者离开时都有一个与其AJO用例直接一致的实实在在的一页变更计划。
+此会话几乎不需要任何准备工作。  您可以选择观看[VRA系列](https://experienceleague.adobe.com/zh-hans/docs/ultimate-success/ultimate-success-webinar-library/mini-series/ajo-on-demand)的[变更管理策略](https://experienceleague.adobe.com/zh-hans/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/change-management-strategies)录像，支持任何成熟度级别的团队，并确保每位与会者离开时都有一个与其AJO用例直接一致的实实在在的一页变更计划。
 
 该会议重点讨论了，
 
