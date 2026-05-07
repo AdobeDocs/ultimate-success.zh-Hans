@@ -131,7 +131,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" title="最大化内容供应链" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1777587755744" alt="最大化内容供应链"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479096/?captions=chi_hans&format=jpeg&nocache=1777587755744" alt="最大化内容供应链"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -154,7 +154,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem" title="AEM Sites的现代投放模型" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478775/?format=jpeg&nocache=1777587755659" alt="AEM Sites的现代投放模型"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478785/?captions=chi_hans&format=jpeg&nocache=1777587755659" alt="AEM Sites的现代投放模型"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -271,7 +271,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="mini-series/csc-on-demand.md" title="内容Supply chain价值实现系列" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1773689372143" alt="内容Supply chain价值实现系列"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479096/?captions=chi_hans&format=jpeg&nocache=1773689372143" alt="内容Supply chain价值实现系列"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
