@@ -2,9 +2,9 @@
 title: Ultimate Success网络研讨会库
 description: 访问我们为Ultimate Success客户提供的由专家主导的独家网络研讨会库，快速掌握可带来可衡量的业务成效的战略和技术最佳实践。
 hide: true
-source-git-commit: 6c0d3d7998b5beed45fb8d88aa3685c2e6dc7bc9
+source-git-commit: 7441663a714b7e3333bc60d3d79ed7081ee68510
 workflow-type: tm+mt
-source-wordcount: '944'
+source-wordcount: '1067'
 ht-degree: 0%
 
 ---
@@ -36,12 +36,58 @@ CARDS  ****
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Unlocking Federated Audience Composition (FAC) in AEP - From Data Silos to Unified Audiences">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="../contents/2026/unified-audiences.md" title="解锁AEP中的联合受众构成(FAC) — 从数据孤岛到统一受众" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486505/?format=jpeg&nocache=1778512233005" alt="解锁AEP中的联合受众构成(FAC) — 从数据孤岛到统一受众"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="../contents/2026/unified-audiences.md" target="_blank" rel="referrer" title="解锁AEP中的联合受众构成(FAC) — 从数据孤岛到统一受众">在AEP中解锁联合受众合成(FAC) — 从数据孤岛到统一受众</a>
+                    </p>
+                    <p class="is-size-6">了解Adobe Experience Platform如何通过连接企业数据孤岛、尊重治理和激活见解来启用统一的可操作受众。</p>
+                </div>
+                <a href="../contents/2026/unified-audiences.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Powering Real-Time Customer Experiences with Intelligent Decisioning">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="../contents/2026/intelligent-decsioning.md" title="通过智能决策提供实时客户体验" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486515/?captions=chi_hans&format=jpeg&nocache=1778512232986" alt="通过智能决策提供实时客户体验"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="../contents/2026/intelligent-decsioning.md" target="_blank" rel="referrer" title="通过智能决策提供实时客户体验">通过智能决策提供实时客户体验</a>
+                    </p>
+                    <p class="is-size-6">了解如何使用Adobe Journey Optimizer进行智能决策并实时提供个性化的客户体验。</p>
+                </div>
+                <a href="../contents/2026/intelligent-decsioning.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Change Management Deep Dive Adobe Journey Optimizer (AJO)">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/change-management-deep-dive.md" title="变更管理深入了解Adobe Journey Optimizer (AJO)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486200/?format=jpeg&nocache=1777587754515" alt="变更管理深入了解Adobe Journey Optimizer (AJO)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486200/?format=jpeg&nocache=1778512232991" alt="变更管理深入了解Adobe Journey Optimizer (AJO)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -64,7 +110,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices" title="为Analytics和Customer Journey Analytics创建BRD-SDR文件" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479598/?format=jpeg&nocache=1777587755654" alt="为Analytics和Customer Journey Analytics创建BRD-SDR文件"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479598/?format=jpeg&nocache=1778512233632" alt="为Analytics和Customer Journey Analytics创建BRD-SDR文件"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -87,7 +133,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence" title="嵌入式智能转变" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1777587755920" alt="嵌入式智能转变"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1778512236673" alt="嵌入式智能转变"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -110,7 +156,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds" title="在Edge Delivery Services中创作" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479916/?format=jpeg&nocache=1777587755996" alt="在Edge Delivery Services中创作"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479916/?format=jpeg&nocache=1778512237671" alt="在Edge Delivery Services中创作"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -133,7 +179,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" title="最大化内容供应链" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479096/?captions=chi_hans&format=jpeg&nocache=1777587755744" alt="最大化内容供应链"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479096/?captions=chi_hans&format=jpeg&nocache=1778512233634" alt="最大化内容供应链"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -156,7 +202,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem" title="AEM Sites的现代投放模型" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478785/?captions=chi_hans&format=jpeg&nocache=1777587755659" alt="AEM Sites的现代投放模型"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478785/?captions=chi_hans&format=jpeg&nocache=1778512233655" alt="AEM Sites的现代投放模型"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -179,7 +225,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs" title="AEM Cloud Service的战略优势" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478772/?format=jpeg&nocache=1777587755617" alt="AEM Cloud Service的战略优势"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478772/?format=jpeg&nocache=1778512233716" alt="AEM Cloud Service的战略优势"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
