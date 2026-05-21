@@ -19,7 +19,7 @@ ht-degree: 0%
 
 了解人工智能如何重塑搜索并影响数字策略。 本会议探讨如何优化Adobe Experience Manager (AEM)站点，以增强AI支持的发现这一不断变化的格局中的可见性、性能和转化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3491259/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491283/?captions=chi_hans&learn=on&enablevpops)
 
 ## 关键主题
 

@@ -19,4 +19,4 @@ ht-degree: 0%
 
 随着内容复杂性的增长，许多公司都在努力清楚地展示其内容运营的业务价值。 此网络研讨会引入了一种结构化、基于结果的方法，用于跨内容Supply chain测量价值，帮助您定义有意义的KPI，将内容投资与业务影响联系起来，并建立一个为执行人员准备的衡量记分卡，以持续实现价值
 
->[!VIDEO](https://video.tv.adobe.com/v/3491220/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491254/?captions=chi_hans&learn=on&enablevpops)

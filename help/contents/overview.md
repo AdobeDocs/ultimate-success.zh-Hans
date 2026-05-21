@@ -35,7 +35,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="在内容Supply chain中创造价值 — 结构化框架和度量记分卡" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491220/?format=jpeg&nocache=1779390693086" alt="在内容Supply chain中创造价值 — 结构化框架和度量记分卡"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491254/?captions=chi_hans&format=jpeg&nocache=1779390693086" alt="在内容Supply chain中创造价值 — 结构化框架和度量记分卡"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -175,7 +175,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="mini-series/csc-on-demand.md" title="内容Supply chain价值实现系列" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1773689372143" alt="内容Supply chain价值实现系列"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479096/?captions=chi_hans&format=jpeg&nocache=1773689372143" alt="内容Supply chain价值实现系列"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
