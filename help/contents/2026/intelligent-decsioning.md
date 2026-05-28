@@ -21,7 +21,7 @@ ht-degree: 0%
 
 实时提供个性化的客户体验不仅需要客户数据。 它依靠智能决策来评估多个选项并在适当的时候提供最相关的选项。 通过使用Adobe Journey Optimizer，品牌商可以构建体验、应用决策逻辑并在客户历程中扩展个性化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3486504/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486515/?captions=chi_hans&learn=on&enablevpops)
 
 本课程讨论智能决策的重要性、它的工作方式及其业务优势。 了解目录架构和选件集等基本结构如何简化缩放，而决策规则和AI模型等工具如何优化个性化交付。 发现用于动态排名优惠的方法，包括使用AI驱动模型实现个性化优化。
 
