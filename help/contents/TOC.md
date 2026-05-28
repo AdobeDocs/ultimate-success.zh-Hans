@@ -2,10 +2,10 @@
 user-guide-title: Ultimate Success网络研讨会库
 breadcrumb-title: Ultimate Success网络研讨会库
 user-guide-description: 访问我们为Ultimate Success客户提供的由专家主导的独家网络研讨会库，快速掌握可带来可衡量的业务成效的战略和技术最佳实践。
-source-git-commit: 7bf89129c8771ffb9bb37634158c81b3d7a5385b
+source-git-commit: 14b62ebfaa1f07e69ac4ab4d43ced15ce4061901
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 2%
+source-wordcount: '114'
+ht-degree: 1%
 
 ---
 
@@ -29,3 +29,7 @@ ht-degree: 2%
    + {hide-from-toc}[Adobe Data Insights Agent](../contents/2026/data-insights-agent-cja.md)
    + {hide-from-toc}[针对地域优化AEM](../contents/2026/optimize-aem-for-geo.md)
    + {hide-from-toc}[CJA共享组件](../contents/2026/shared-components-cja.md)
+   + {hide-from-toc}[电子邮件营销活动](../contents/2026/email-campaigns.md)
+   + {hide-from-toc}[创建客户体验策略](../contents/2026/maximize-ajo-value.md)
+   + {hide-from-toc}[正在解锁联合受众组合](../contents/2026/unlock-federated-audience-composition.md)
+   + {hide-from-toc}[有效的用例语句](../contents/2026/effective-use-case-statements.md)
