@@ -7,15 +7,15 @@ usetq: true
 product: experience cloud
 type: Documentation
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/discontinued.zh-Hans
+git-repo: https://github.com/AdobeDocs/ultimate-success.zh-Hans
 auto-video-transcripts: true
 hide: true
 debug: yes
 author: various
-source-git-commit: bf8d77232d834eba37c3a28ee332f5976fc96009
+source-git-commit: 6ca03e60416c05b57f194ccefbe6ea591126d6db
 workflow-type: tm+mt
-source-wordcount: 68
-ht-degree: 94%
+source-wordcount: 69
+ht-degree: 92%
 
 ---
 
