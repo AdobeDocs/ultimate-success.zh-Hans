@@ -36,6 +36,6 @@ ht-degree: 1%
   + {hide-from-toc}[有效的用例语句](../contents/2026/effective-use-case-statements.md)
   + {hide-from-toc}[上线后持续采用](../contents/2026/operational-drift.md)
   + {hide-from-toc}[管理多区域团队](../contents/2026/multi-region-teams.md)
-  + 客户体验中的{hide-from-toc}[个性化功能](../contents/2026/personalisation-capabilities.md)
-  + Adobe Experience Manager的{hide-from-toc}[GenAI代理](../contents/2026/genai-agents-aem.md)
+  + {hide-from-toc}[客户体验中的个性化功能](../contents/2026/personalisation-capabilities.md)
+  + {hide-from-toc}[Adobe Experience Manager的GenAI代理](../contents/2026/genai-agents-aem.md)
   + {hide-from-toc}[生成AJO用例并对其进行优先排序](../contents/2026/ajo-use-cases.md)
