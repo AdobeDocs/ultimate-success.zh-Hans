@@ -23,7 +23,7 @@ ht-degree: 2%
 
 了解如何使用CJA4T将Adobe Target移动应用程序体验连接到跨渠道的下游操作。 此会话提供有关身份拼接、数据架构、报表配置和避免常见设置隐患的指导。 更全面地了解个性化影响并做出更好的优化决策。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496953/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496986/?captions=chi_hans&learn=on&enablevpops)
 
 ## 您将了解的内容
 
