@@ -30,7 +30,7 @@ ht-degree: 4%
 
 该会议提供了一个详细的框架，用于将Adobe的AI功能与您的业务目标相协调。 它专注于最大限度地利用您的Adobe投资，并采用具有增强数据准备和治理的可扩展解决方案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496952/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496966/?captions=chi_hans&learn=on&enablevpops)
 
 ## 您将了解的内容
 
