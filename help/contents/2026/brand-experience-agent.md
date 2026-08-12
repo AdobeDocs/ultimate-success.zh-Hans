@@ -2,8 +2,13 @@
 title: Adobe代理的扩展 — Brand Experience Agent
 description: 了解Adobe的Brand Experience Agent如何简化工作流、加快内容制作并确保治理以实现可扩展的业务价值。
 product: Workfront
-role: AdminLeaderUser
-level: BeginnerIntermediate
+role:
+  - Admin
+  - Leader
+  - User
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

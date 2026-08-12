@@ -2,8 +2,13 @@
 title: 为什么需要Workfront中的统一审核和批准
 description: 了解Adobe Workfront统一审阅和批准如何简化内容审阅流程、增强协作并提高效率。
 product: Workfront
-role: AdminDeveloperUser
-level: BeginnerIntermediate
+role:
+  - Admin
+  - Developer
+  - User
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

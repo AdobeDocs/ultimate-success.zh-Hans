@@ -2,8 +2,13 @@
 title: 从Adobe Analytics到Customer Journey Analytics — 您的迁移路线图
 description: 了解从Adobe Analytics迁移到Customer Journey Analytics的步骤。 深入了解身份策略、数据验证等。
 product: Customer Journey Analytics
-role: AdminLeaderUser
-level: BeginnerIntermediate
+role:
+  - Admin
+  - Leader
+  - User
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z
