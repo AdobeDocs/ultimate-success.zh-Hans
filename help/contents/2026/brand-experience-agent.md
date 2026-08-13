@@ -1,7 +1,7 @@
 ---
 title: Adobe代理的扩展 — Brand Experience Agent
 description: 了解Adobe的Brand Experience Agent如何简化工作流、加快内容制作并确保治理以实现可扩展的业务价值。
-product: Workfront
+solution: Workfront
 role: Admin, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -11,7 +11,7 @@ jira: KT-22285
 duration: 1968
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
+source-git-commit: d438551366627f812abfe5e6af458b7e116e94bd
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 2%
@@ -23,7 +23,7 @@ ht-degree: 2%
 
 了解Brand Experience Agent如何能够加快内容生产、站点现代化和开发，同时保留人工审查和治理。 了解为什么标准化高价值、重复性的工作流对于提供可扩展的业务价值至关重要。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496975/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496956/?learn=on&enablevpops)
 
 ## 您将了解的内容
 

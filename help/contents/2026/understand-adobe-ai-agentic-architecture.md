@@ -1,7 +1,7 @@
 ---
 title: 了解Adobe的AI和代理架构以满足业务需求
 description: 了解Adobe的AI和代理架构如何与业务成果保持一致、实现最大的Adobe投资回报率，以及通过强大的治理功能实现可扩展的采用率。
-product: Platform
+solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -11,7 +11,7 @@ jira: KT-22281
 duration: 1821
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
+source-git-commit: d438551366627f812abfe5e6af458b7e116e94bd
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 4%
@@ -23,7 +23,7 @@ ht-degree: 4%
 
 该会议提供了一个详细的框架，用于将Adobe的AI功能与您的业务目标相协调。 它专注于最大限度地利用您的Adobe投资，并采用具有增强数据准备和治理的可扩展解决方案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496966/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496952/?learn=on&enablevpops)
 
 ## 您将了解的内容
 

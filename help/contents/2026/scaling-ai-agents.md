@@ -1,7 +1,7 @@
 ---
 title: 扩展Adobe AI代理 — Audience Agent和Data Insights Agent
 description: 了解Audience Agent和Data Insights Agent如何将Ad Hoc AI使用转换为可重复的工作流，用于分段、受众管理和活动分析。
-product: Customer Journey Analytics
+solution: Customer Journey Analytics
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -11,7 +11,7 @@ jira: KT-22287
 duration: 2930
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
+source-git-commit: d438551366627f812abfe5e6af458b7e116e94bd
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 2%
