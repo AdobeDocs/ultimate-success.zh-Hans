@@ -1,7 +1,7 @@
 ---
 title: 缩放Adobe代理 — Journey Agent
 description: 了解Adobe的Journey Agent如何将AI工作流与人的监督相结合，以优化旅程创建和治理。
-product: Journey Optimizer
+solution: Journey Optimizer
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -11,7 +11,7 @@ jira: KT-22286
 duration: 3337
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
+source-git-commit: d438551366627f812abfe5e6af458b7e116e94bd
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 3%

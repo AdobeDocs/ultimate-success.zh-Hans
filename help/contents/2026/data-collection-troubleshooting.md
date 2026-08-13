@@ -1,7 +1,7 @@
 ---
 title: 数据收集疑难解答 — 提示、技巧和治理最佳实践
 description: 了解使用以治理为导向的技术对Adobe Analytics和Web SDK进行故障排除的有效方法，以更快地验证数据和解决问题。
-product: Customer Journey Analytics
+solution: Customer Journey Analytics
 role: Admin, Developer
 level: Beginner, Intermediate
 doc-type: Event
@@ -11,7 +11,7 @@ jira: KT-22284
 duration: 3401
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
+source-git-commit: d438551366627f812abfe5e6af458b7e116e94bd
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 2%

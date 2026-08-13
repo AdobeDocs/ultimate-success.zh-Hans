@@ -1,7 +1,7 @@
 ---
 title: 了解Adobe的AI和代理架构以满足业务需求
 description: 了解Adobe的AI和代理架构如何与业务成果保持一致、实现最大的Adobe投资回报率，以及通过强大的治理功能实现可扩展的采用率。
-product: Platform
+solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -11,7 +11,7 @@ jira: KT-22281
 duration: 1821
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
+source-git-commit: d438551366627f812abfe5e6af458b7e116e94bd
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 4%
