@@ -3,9 +3,9 @@ user-guide-title: Ultimate Success网络研讨会库
 breadcrumb-title: Ultimate Success网络研讨会库
 user-guide-description: 访问我们为Ultimate Success客户提供的由专家主导的独家网络研讨会库，快速掌握可带来可衡量的业务成效的战略和技术最佳实践。
 nudge: true
-source-git-commit: 99b08f72e37e492161091145b3ecd9ec5349f283
+source-git-commit: 8341cffff74fd458f81bd307e523d075c29badad
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '186'
 ht-degree: 1%
 
 ---
@@ -46,3 +46,4 @@ ht-degree: 1%
   + {hide-from-toc}[Adobe Analytics到Customer Journey Analytics迁移路线图](../contents/2026/aa-to-cja-migration-roadmap.md)
   + {hide-from-toc}[适用于移动应用程序Personalization的CJA4T](../contents/2026/cja4t-mobile-app-personalization.md)
   + {hide-from-toc}[Adobe的AI和代理架构](../contents/2026/understand-adobe-ai-agentic-architecture.md)
+  + {hide-from-toc}[适用于Adobe Workfront的可伸缩运营模型](../contents/2026/scalable-operating-model.md)
