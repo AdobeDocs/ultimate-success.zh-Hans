@@ -3,9 +3,9 @@ user-guide-title: Ultimate Success网络研讨会库
 breadcrumb-title: Ultimate Success网络研讨会库
 user-guide-description: 访问我们为Ultimate Success客户提供的由专家主导的独家网络研讨会库，快速掌握可带来可衡量的业务成效的战略和技术最佳实践。
 nudge: true
-source-git-commit: 8341cffff74fd458f81bd307e523d075c29badad
+source-git-commit: ae55a4878eecae03ea31d7564b2a3066c242b78e
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '191'
 ht-degree: 1%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 1%
   + {hide-from-toc}[有效的用例语句](../contents/2026/effective-use-case-statements.md)
   + {hide-from-toc}[上线后持续采用](../contents/2026/operational-drift.md)
   + {hide-from-toc}[管理多区域团队](../contents/2026/multi-region-teams.md)
-  + {hide-from-toc}[Adobe Experience Manager的GenAI代理](../contents/2026/genai-agents-aem.md)
+  + Adobe Experience Manager的{hide-from-toc}[GenAI代理](../contents/2026/genai-agents-aem.md)
   + {hide-from-toc}[生成AJO用例并对其进行优先排序](../contents/2026/ajo-use-cases.md)
   + {hide-from-toc}[为什么您需要Workfront中的统一审阅和批准](../contents/2026/unified-review-approvals-workfront.md)
   + {hide-from-toc}[Audience Agent和Data Insights Agent](../contents/2026/scaling-ai-agents.md)
@@ -44,6 +44,7 @@ ht-degree: 1%
   + {hide-from-toc}[缩放Adobe代理 — Brand Experience Agent](../contents/2026/brand-experience-agent.md)
   + {hide-from-toc}[数据收集疑难解答](../contents/2026/data-collection-troubleshooting.md)
   + {hide-from-toc}[Adobe Analytics到Customer Journey Analytics迁移路线图](../contents/2026/aa-to-cja-migration-roadmap.md)
-  + {hide-from-toc}[适用于移动应用程序Personalization的CJA4T](../contents/2026/cja4t-mobile-app-personalization.md)
+  + 适用于移动应用程序Personalization的{hide-from-toc}[CJA4T](../contents/2026/cja4t-mobile-app-personalization.md)
   + {hide-from-toc}[Adobe的AI和代理架构](../contents/2026/understand-adobe-ai-agentic-architecture.md)
-  + {hide-from-toc}[适用于Adobe Workfront的可伸缩运营模型](../contents/2026/scalable-operating-model.md)
+  + 适用于Adobe Workfront的{hide-from-toc}[可伸缩运营模型](../contents/2026/scalable-operating-model.md)
+  + {hide-from-toc}[Adobe Customer Journey Analytics拼接](../contents/2026/cja-stitching.md)
