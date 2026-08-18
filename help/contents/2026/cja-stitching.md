@@ -2,13 +2,8 @@
 title: 通过Adobe Customer Journey Analytics拼合提升跨渠道见解
 description: 了解Adobe CJA拼合如何解锁人员级别和跨渠道分析，从而改进报表、归因和受众构建。
 product: Journey Optimizer
-role:
-  - Admin
-  - Developer
-  - User
-level:
-  - Beginner
-  - Intermediate
+role: Admin, Developer, User
+level: Beginner, Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-17T00:00:00Z
@@ -17,7 +12,7 @@ duration: 3105
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
 user-guide-description: null
-source-git-commit: ae55a4878eecae03ea31d7564b2a3066c242b78e
+source-git-commit: fd4e897f962482501f6cb4815af5433f36bdcd23
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
