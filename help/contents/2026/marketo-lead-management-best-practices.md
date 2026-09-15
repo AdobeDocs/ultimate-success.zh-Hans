@@ -23,7 +23,7 @@ ht-degree: 2%
 
 探索Adobe推荐的销售线索管理方法，并了解营销和销售如何从共享框架进行资格鉴定、跟进和衡量。
 
->[!VIDEO](https://video.tv.adobe.com/v/3502954/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502998/?captions=chi_hans&learn=on&enablevpops)
 
 ## 概述
 

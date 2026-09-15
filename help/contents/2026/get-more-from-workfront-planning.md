@@ -23,7 +23,7 @@ ht-degree: 4%
 
 了解Workfront Planning如何解决营销规划中的零散可见性、断开连接的策略和执行以及手动报告开销问题。
 
->[!VIDEO](https://video.tv.adobe.com/v/3502959/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502978/?captions=chi_hans&learn=on&enablevpops)
 
 ## 关键要点
 
