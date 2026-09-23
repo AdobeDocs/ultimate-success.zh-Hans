@@ -3,9 +3,9 @@ user-guide-title: Ultimate Success网络研讨会库
 breadcrumb-title: Ultimate Success网络研讨会库
 user-guide-description: 访问我们为Ultimate Success客户提供的由专家主导的独家网络研讨会库，快速掌握可带来可衡量的业务成效的战略和技术最佳实践。
 nudge: true
-source-git-commit: 72af96fb4f167de5866475d5a810a0bd287fb98a
+source-git-commit: b8c15a9c7151c54bf619d0e977bf59e59e16463c
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '243'
 ht-degree: 0%
 ---
 
@@ -55,3 +55,4 @@ ht-degree: 0%
   + {hide-from-toc}[Adobe Commerce可观察性和监视最佳实践](../contents/2026/commerce-observability-monitoring.md)
   + {hide-from-toc}[CXO成功的战略规划](../contents/2026/strategic-planning-cxo-success.md)
   + {hide-from-toc}[AEM代理技能](../contents/2026/ai-assisted-development.md)
+  + {hide-from-toc}[已标记、受管理、已激活](../contents/2026/metadata-backbone-content-at-scale.md)
