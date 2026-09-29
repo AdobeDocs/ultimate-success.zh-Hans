@@ -19,7 +19,7 @@ source-wordcount: '132'
 ht-degree: 0%
 ---
 
->[!VIDEO](https://video.tv.adobe.com/v/3503926/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503936/?captions=chi_hans&learn=on&enablevpops)
 
 # 从草稿到交付：关闭WIP审核和审批差距
 
