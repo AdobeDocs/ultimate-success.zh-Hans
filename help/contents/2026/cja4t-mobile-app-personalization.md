@@ -6,24 +6,33 @@ role: User
 level: Beginner, Intermediate
 doc-type: Event
 type: Event
-last-substantial-update: 2026-08-12T00:00:00Z
+last-substantial-update: 2026-08-12T00:00:00.000Z
 jira: KT-22282
 duration: 2118
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: d438551366627f812abfe5e6af458b7e116e94bd
+product_v2:
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: c86ed78d1c11ec9eb836e05db20c4b47c392b9fd
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 2%
-
 ---
-
 
 # 从试验到insight：用于移动应用程序个性化的CJA4T
 
 了解如何使用CJA4T将Adobe Target移动应用程序体验连接到跨渠道的下游操作。 此会话提供有关身份拼接、数据架构、报表配置和避免常见设置隐患的指导。 更全面地了解个性化影响并做出更好的优化决策。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496986/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496953/?learn=on&enablevpops)
 
 ## 您将了解的内容
 

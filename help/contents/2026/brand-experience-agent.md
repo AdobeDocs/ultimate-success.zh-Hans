@@ -6,24 +6,37 @@ role: Admin, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 type: Event
-last-substantial-update: 2026-08-12T00:00:00Z
+last-substantial-update: 2026-08-12T00:00:00.000Z
 jira: KT-22285
 duration: 1968
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: d438551366627f812abfe5e6af458b7e116e94bd
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: c86ed78d1c11ec9eb836e05db20c4b47c392b9fd
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 2%
-
 ---
-
 
 # Adobe代理扩展 |品牌体验代理
 
 了解Brand Experience Agent如何能够加快内容生产、站点现代化和开发，同时保留人工审查和治理。 了解为什么标准化高价值、重复性的工作流对于提供可扩展的业务价值至关重要。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496975/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496956/?learn=on&enablevpops)
 
 ## 您将了解的内容
 

@@ -5,18 +5,26 @@ role: Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2365
-last-substantial-update: 2026-05-21T00:00:00Z
+last-substantial-update: 2026-05-21T00:00:00.000Z
 jira: KT-21232
-source-git-commit: 7bf89129c8771ffb9bb37634158c81b3d7a5385b
+role_v2:
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: c86ed78d1c11ec9eb836e05db20c4b47c392b9fd
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
-
 ---
-
 
 # 在内容Supply chain中创造价值：结构化框架和度量记分卡
 
 随着内容复杂性的增长，许多公司都在努力清楚地展示其内容运营的业务价值。 此网络研讨会引入了一种结构化、基于结果的方法，用于跨内容Supply chain测量价值，帮助您定义有意义的KPI，将内容投资与业务影响联系起来，并建立一个为执行人员准备的衡量记分卡，以持续实现价值
 
->[!VIDEO](https://video.tv.adobe.com/v/3491254/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491220/?learn=on&enablevpops)

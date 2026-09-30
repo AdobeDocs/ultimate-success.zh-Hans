@@ -5,23 +5,35 @@ role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2269
-last-substantial-update: 2026-05-08T00:00:00Z
+last-substantial-update: 2026-05-08T00:00:00.000Z
 jira: KT-21144
 hide: true
 hidefromtoc: true
-source-git-commit: e54140d809f316b0f9b87f765a3f147a40ec9284
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: c86ed78d1c11ec9eb836e05db20c4b47c392b9fd
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
-
 ---
-
 
 # 通过智能决策提供实时客户体验
 
 实时提供个性化的客户体验不仅需要客户数据。 它依靠智能决策来评估多个选项并在适当的时候提供最相关的选项。 通过使用Adobe Journey Optimizer，品牌商可以构建体验、应用决策逻辑并在客户历程中扩展个性化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3486515/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486504/?learn=on&enablevpops)
 
 本课程讨论智能决策的重要性、它的工作方式及其业务优势。 了解目录架构和选件集等基本结构如何简化缩放，而决策规则和AI模型等工具如何优化个性化交付。 发现用于动态排名优惠的方法，包括使用AI驱动模型实现个性化优化。
 
