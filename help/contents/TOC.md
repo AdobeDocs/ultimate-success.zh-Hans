@@ -3,9 +3,9 @@ user-guide-title: Ultimate Success网络研讨会库
 breadcrumb-title: Ultimate Success网络研讨会库
 user-guide-description: 访问我们为Ultimate Success客户提供的由专家主导的独家网络研讨会库，快速掌握可带来可衡量的业务成效的战略和技术最佳实践。
 nudge: true
-source-git-commit: 2efd51569b09ed63e50d0c21d7279c296c6d866a
+source-git-commit: 0f24a0a40399ef20b99280e22d684f57a9c8776e
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '260'
 ht-degree: 0%
 ---
 
@@ -58,3 +58,4 @@ ht-degree: 0%
   + {hide-from-toc}[已标记、受管理、已激活](../contents/2026/metadata-backbone-content-at-scale.md)
   + {hide-from-toc}[解锁B2B增长的未来](../contents/2026/future-b2b-growth.md)
   + {hide-from-toc}[正在关闭WIP审核和批准差距](../contents/2026/wip-review-approval-gap.md)
+  + {hide-from-toc}[正在生成AI规模](../contents/2026/building-for-ai-scale.md)
