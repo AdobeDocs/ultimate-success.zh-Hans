@@ -3,17 +3,19 @@ user-guide-title: Ultimate Success网络研讨会库
 breadcrumb-title: Ultimate Success网络研讨会库
 user-guide-description: 访问我们为Ultimate Success客户提供的由专家主导的独家网络研讨会库，快速掌握可带来可衡量的业务成效的战略和技术最佳实践。
 nudge: true
-source-git-commit: 0f24a0a40399ef20b99280e22d684f57a9c8776e
+source-git-commit: 96be43835a9dd67a3fc538e11ba72ed4963f584b
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '264'
 ht-degree: 0%
 ---
 
 # Ultimate Success网络研讨会库 {#ultimate-success-webinar-library}
 
 + [概述](overview.md)
++ {hide-from-toc}[概述AI](overview-ai.md)
 + [网络研讨会](webinars.md)
 + 迷你系列内容 {#mini-series}
+  + {hide-from-toc}[AI Essentials](mini-series/ai-essentials.md)
   + [CJA价值实现加速系列](mini-series/cja-on-demand.md)
   + [AJO价值实现加速系列](mini-series/ajo-on-demand.md)
   + [CSC价值实现系列](mini-series/csc-on-demand.md)
