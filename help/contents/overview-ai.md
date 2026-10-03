@@ -2,21 +2,15 @@
 title: Ultimate Success网络研讨会库
 description: 访问我们为Ultimate Success客户提供的由专家主导的独家网络研讨会库，快速掌握可带来可衡量的业务成效的战略和技术最佳实践。
 hide: true
-source-git-commit: 3084af6480f8fddcd65d45701ecc4c05c35787a4
+source-git-commit: 574e2ed4b4b12f069dd194562b1a3f376ec56697
 workflow-type: tm+mt
-source-wordcount: '984'
-ht-degree: 14%
+source-wordcount: '884'
+ht-degree: 15%
 ---
 
 # Ultimate Success网络研讨会库
 
 访问我们由专家牵头的全面网络研讨会库，这些研讨会旨在加快您对专门为我们Ultimate Success客户提供的战略和技术最佳实践的掌握。 从基本概念到高级实施战略，这些网络研讨会涵盖了实现可衡量的业务成果所需的一切。
-
-## Adobe AI Essentials
-
-培根洋芋头配猪肚皮香肠、比隆火腿肉条波伦猪肉荷包菜园艺师。 火鸡排骨片肉馅烤肉片磨成圆的列柏加肩鼓状牛肉球头。 法兰克福短肋恰克·山克尔火腿三尖，牛尾麦片牛尾磨成圆圆的鸡肉鼓手。 卡皮科拉短排骨、法兰克福肩排骨、猪腰肉肚肚皮火鸡肉香肠磨碎弹。 乔尔·山科尔兰杰格烤火腿，波切塔吐鲁肯叉烧烤恰克。 羊角包、兰杰格短排骨意式意式意式烤肉排骨波切达松茸猪排骨。
-
-[查看所有网络研讨会](./webinars.md)
 
 ## 网络研讨会
 
@@ -39,7 +33,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="在内容Supply chain中创造价值 — 结构化框架和度量记分卡" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491254/?captions=chi_hans&format=jpeg&nocache=1790984045136" alt="在内容Supply chain中创造价值 — 结构化框架和度量记分卡"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491220/?format=jpeg&nocache=1790984045136" alt="在内容Supply chain中创造价值 — 结构化框架和度量记分卡"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -203,7 +197,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="mini-series/csc-on-demand.md" title="内容Supply chain价值实现系列" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479096/?captions=chi_hans&format=jpeg&nocache=1773689372143" alt="内容Supply chain价值实现系列"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1773689372143" alt="内容Supply chain价值实现系列"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
