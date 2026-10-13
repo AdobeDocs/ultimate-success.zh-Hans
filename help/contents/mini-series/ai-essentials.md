@@ -1,16 +1,16 @@
 ---
 title: AI Essentials
-description: 培根洋芋头配猪肚皮香肠、比隆火腿肉条波伦猪肉荷包菜园艺师。 用例路线图、架构、操作模型和组织就绪性，可加快实现价值并最大限度地推广AJO。
+description: 通过按需课程学习Adobe AI，这些课程涵盖Adobe Customer Experience Orchestration产品的核心概念和AI实践功能。
 hide: true
-source-git-commit: 3084af6480f8fddcd65d45701ecc4c05c35787a4
+source-git-commit: bd094928525c06637c81d58284eeb81959797c7f
 workflow-type: tm+mt
-source-wordcount: '1246'
-ht-degree: 28%
+source-wordcount: '1310'
+ht-degree: 30%
 ---
 
 # AI Essentials系列
 
-培根洋芋头配猪肚皮香肠、比隆火腿肉条波伦猪肉荷包菜园艺师。 火鸡排骨片肉馅烤肉片磨成圆的列柏加肩鼓状牛肉球头。 法兰克福短肋恰克·山克尔火腿三尖，牛尾麦片牛尾磨成圆圆的鸡肉鼓手。 卡皮科拉短排骨、法兰克福肩排骨、猪腰肉肚肚皮火鸡肉香肠磨碎弹。 乔尔·山科尔兰杰格烤火腿，波切塔吐鲁肯叉烧烤恰克。 羊角包、兰杰格短排骨意式意式意式烤肉排骨波切达松茸猪排骨。
+利用这个按需系列在Adobe AI中构建实践基础。 深入探讨AI功能的核心概念，或深入了解专门介绍Adobe Customer Experience Orchestration产品中AI功能的动手应用的会议。
 
 ## 构建基础
 
@@ -29,7 +29,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/on-demand-events/embedded-intelligence" title="嵌入式智能转变" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1790984011805" alt="嵌入式智能转变"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1791840290135" alt="嵌入式智能转变"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -52,7 +52,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/on-demand-events/ai-agents" title="AEP中的AI代理 — 概述" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475315/?format=jpeg&nocache=1790984011790" alt="AEP中的AI代理 — 概述"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475315/?format=jpeg&nocache=1791840290152" alt="AEP中的AI代理 — 概述"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -82,6 +82,7 @@ CARDS  ****
 
 * https://experienceleague.adobe.com/zh-hans/on-demand-events/ai-beyond-basics
 * https://experienceleague.adobe.com/zh-hans/on-demand-events/cja-data-insights-agent
+* https://experienceleague.adobe.com/zh-hans/docs/ultimate-success/ultimate-success-webinar-library/hidden/data-insights-agent-cja
 * https://experienceleague.adobe.com/zh-hans/docs/ultimate-success/ultimate-success-webinar-library/hidden/scaling-ai-agents
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -91,7 +92,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/on-demand-events/ai-beyond-basics" title="AI助手 — 基础知识以外" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463368/?captions=chi_hans&format=jpeg&nocache=1790984012630" alt="AI助手 — 基础知识以外"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463368/?captions=chi_hans&format=jpeg&nocache=1791840290822" alt="AI助手 — 基础知识以外"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -114,7 +115,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/on-demand-events/cja-data-insights-agent" title="与您的数据进行对话 — CJA Data Insights Agent" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476895/?format=jpeg&nocache=1790984012667" alt="与您的数据进行对话 — CJA Data Insights Agent"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476895/?format=jpeg&nocache=1791840290776" alt="与您的数据进行对话 — CJA Data Insights Agent"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -132,12 +133,35 @@ CARDS  ****
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Operationalizing Adobe Data Insights Agent in CJA">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/zh-hans/docs/ultimate-success/ultimate-success-webinar-library/hidden/data-insights-agent-cja" title="在CJA中实施Adobe Data Insights Agent" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491258/?format=jpeg&nocache=1791840290897" alt="在CJA中实施Adobe Data Insights Agent"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/zh-hans/docs/ultimate-success/ultimate-success-webinar-library/hidden/data-insights-agent-cja" target="_blank" rel="referrer" title="在CJA中实施Adobe Data Insights Agent">在CJA中操作Adobe Data Insights Agent</a>
+                    </p>
+                    <p class="is-size-6">了解如何将Adobe Data Insights Agent集成到Customer Journey Analytics工作流中，从而实现更快的见解和可扩展的决策。</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/zh-hans/docs/ultimate-success/ultimate-success-webinar-library/hidden/data-insights-agent-cja" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Scaling Adobe AI Agents - Audience Agent & Data Insights Agent">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/ultimate-success/ultimate-success-webinar-library/hidden/scaling-ai-agents" title="扩展Adobe AI代理 — Audience Agent和Data Insights Agent" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496958/?format=jpeg&nocache=1790984013113" alt="扩展Adobe AI代理 — Audience Agent和Data Insights Agent"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496958/?format=jpeg&nocache=1791840290912" alt="扩展Adobe AI代理 — Audience Agent和Data Insights Agent"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -175,7 +199,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/ultimate-success/ultimate-success-webinar-library/hidden/ai-features-aem-assets" title="Adobe Experience Manager Assets中的AI功能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502952/?format=jpeg&nocache=1790984013690" alt="Adobe Experience Manager Assets中的AI功能"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502952/?format=jpeg&nocache=1791840291754" alt="Adobe Experience Manager Assets中的AI功能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -198,7 +222,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/ultimate-success/ultimate-success-webinar-library/hidden/ai-assisted-development" title="AEM代理技能 — 人工智能辅助开发做得不错" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502967/?format=jpeg&nocache=1790984013704" alt="AEM代理技能 — 人工智能辅助开发做得不错"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502967/?format=jpeg&nocache=1791840291747" alt="AEM代理技能 — 人工智能辅助开发做得不错"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -236,7 +260,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/on-demand-events/accelerating-digital-experience-optimization" title="利用AI支持的分析加速数字体验优化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463354/?format=jpeg&nocache=1790984014193" alt="利用AI支持的分析加速数字体验优化"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463354/?format=jpeg&nocache=1791840292430" alt="利用AI支持的分析加速数字体验优化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -259,7 +283,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/on-demand-events/ai-adobe-target" title="释放AI的强大功能 — Adobe Target的高级试验" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458079/?format=jpeg&nocache=1790984014257" alt="释放AI的强大功能 — Adobe Target的高级试验"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458079/?format=jpeg&nocache=1791840292451" alt="释放AI的强大功能 — Adobe Target的高级试验"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

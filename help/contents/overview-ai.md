@@ -2,9 +2,9 @@
 title: Ultimate Success网络研讨会库
 description: 访问我们为Ultimate Success客户提供的由专家主导的独家网络研讨会库，快速掌握可带来可衡量的业务成效的战略和技术最佳实践。
 hide: true
-source-git-commit: 574e2ed4b4b12f069dd194562b1a3f376ec56697
+source-git-commit: 991fae76e22b430abcaa45094697d560f864a1fd
 workflow-type: tm+mt
-source-wordcount: '884'
+source-wordcount: '871'
 ht-degree: 15%
 ---
 
@@ -33,7 +33,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="在内容Supply chain中创造价值 — 结构化框架和度量记分卡" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491254/?captions=chi_hans&format=jpeg&nocache=1790984045136" alt="在内容Supply chain中创造价值 — 结构化框架和度量记分卡"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491254/?captions=chi_hans&format=jpeg&nocache=1791844681479" alt="在内容Supply chain中创造价值 — 结构化框架和度量记分卡"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -56,7 +56,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/universal-editor-ssr-frameworks.md" title="具有通用编辑器和现代SSR框架的快速、可编辑站点" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491408/?format=jpeg&nocache=1790984045109" alt="具有通用编辑器和现代SSR框架的快速、可编辑站点"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491408/?format=jpeg&nocache=1791844681450" alt="具有通用编辑器和现代SSR框架的快速、可编辑站点"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -79,7 +79,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/ajo-product-release.md" title="AJO产品发布会话" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491221/?format=jpeg&nocache=1790984045124" alt="AJO产品发布会话"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491221/?format=jpeg&nocache=1791844681438" alt="AJO产品发布会话"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -128,7 +128,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="mini-series/ai-essentials.md" title="AI Essentials" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1790984011805" alt="AI Essentials"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1791840290135" alt="AI Essentials"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -138,7 +138,7 @@ CARDS  ****
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="mini-series/ai-essentials.md" target="_blank" rel="referrer" title="AI Essentials">AI Essentials</a>
                     </p>
-                    <p class="is-size-6">培根洋芋头配猪肚皮香肠、比隆火腿肉条波伦猪肉荷包菜园艺师。 用例路线图、架构、操作模型和组织就绪性，可加快实现价值并最大限度地推广AJO。</p>
+                    <p class="is-size-6">通过按需课程学习Adobe AI，这些课程涵盖Adobe Customer Experience Orchestration产品的核心概念和AI实践功能。</p>
                 </div>
                 <a href="mini-series/ai-essentials.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">查看系列</span>
