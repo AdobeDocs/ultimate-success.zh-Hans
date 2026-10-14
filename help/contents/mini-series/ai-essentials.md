@@ -2,7 +2,7 @@
 title: AI Essentials
 description: 通过按需课程学习Adobe AI，这些课程涵盖Adobe Customer Experience Orchestration产品的核心概念和AI实践功能。
 hide: true
-source-git-commit: e54197aac17d3cffb889e5dd0504b770f830c8eb
+source-git-commit: d2ccb7d2777d016909412f05889e7d49feffec05
 workflow-type: tm+mt
 source-wordcount: '1310'
 ht-degree: 30%
@@ -303,3 +303,4 @@ CARDS  ****
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+

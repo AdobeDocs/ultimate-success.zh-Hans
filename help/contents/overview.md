@@ -2,7 +2,7 @@
 title: Ultimate Success网络研讨会库
 description: 探索我们专门为Ultimate Success客户举办的专家主导网络研讨会库，以快速掌握可带来可衡量的业务成效的战略和技术最佳实践。
 hide: true
-source-git-commit: f87dd016a0c5520673ce05360b50e30501371823
+source-git-commit: 3e0476c188642f2642d7d67b0c27e08a26895f10
 workflow-type: tm+mt
 source-wordcount: '842'
 ht-degree: 16%
@@ -14,7 +14,7 @@ ht-degree: 16%
 
 ## 网络研讨会
 
-探索我们的按需网络研讨会系列，这些研讨会旨在帮助您最大限度地实现Adobe Experience Platform (AEP)解决方案的价值。 每个课程都是为Ultimate客户而构建的，都提供了可操作的指导、行之有效的策略和真实示例，帮助您按照自己的计划制定更明智的决策和更强有力的成果。
+探索我们的按需网络研讨会系列，这些研讨会旨在帮助您最大限度地实现Adobe Experience Platform (AEP)解决方案的价值。 每个课程都为Ultimate客户量身打造，提供可操作的指导、行之有效的策略和真实示例，帮助您制定更明智的决策并取得更佳的成效。
 
 <!-- 
 CARDS  ****
