@@ -3,9 +3,9 @@ user-guide-title: Ultimate Success网络研讨会库
 breadcrumb-title: Ultimate Success网络研讨会库
 user-guide-description: 访问我们为Ultimate Success客户提供的由专家主导的独家网络研讨会库，快速掌握可带来可衡量的业务成效的战略和技术最佳实践。
 nudge: true
-source-git-commit: 5b5c687103ee3deb7607be409d98dcab63204ee5
+source-git-commit: 843c0f101b5420824f55281fb39999dfac013aab
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '299'
 ht-degree: 0%
 ---
 
@@ -66,4 +66,5 @@ ht-degree: 0%
   + {hide-from-toc}[使用Campaign电子邮件Designer扩展生产](../contents/2026/scale-production-campaign-email-designer.md)
   + {hide-from-toc}[将AI代理投资连接到业务影响](../contents/2026/ai-agentic-investments-to-business-impact.md)
   + {hide-from-toc}[可持续的AI采用](../contents/2026/sustainable-ai-adoption.md)
+  + {hide-from-toc}[Marketo AI Toolkit](../contents/2026/marketo-ai-toolkit.md)
 
