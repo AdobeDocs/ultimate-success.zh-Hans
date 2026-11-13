@@ -22,7 +22,7 @@ ht-degree: 0%
 
 数字体验团队通常可以访问丰富的Analytics数据，但缺乏从insight到行动的明确途径。 本课程探讨如何系统地挖掘Adobe Analytics和Customer Journey Analytics中的摩擦点，将其转换为可测试的优先级假设，并将其集成到Adobe Target和Journey Optimizer中以进行持续优化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3508245/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508274/?captions=chi_hans&learn=on&enablevpops)
 
 ## 您将学习的内容
 
