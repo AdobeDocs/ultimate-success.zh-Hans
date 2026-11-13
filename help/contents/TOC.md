@@ -3,9 +3,9 @@ user-guide-title: Ultimate Success网络研讨会库
 breadcrumb-title: Ultimate Success网络研讨会库
 user-guide-description: 访问我们为Ultimate Success客户提供的由专家主导的独家网络研讨会库，快速掌握可带来可衡量的业务成效的战略和技术最佳实践。
 nudge: true
-source-git-commit: 843c0f101b5420824f55281fb39999dfac013aab
+source-git-commit: 188e08d27f491403f2f1597e85b3f23863f71659
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '318'
 ht-degree: 0%
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 0%
   + {hide-from-toc}[有效的用例语句](../contents/2026/effective-use-case-statements.md)
   + {hide-from-toc}[上线后持续采用](../contents/2026/operational-drift.md)
   + {hide-from-toc}[管理多区域团队](../contents/2026/multi-region-teams.md)
-  + {hide-from-toc}[Adobe Experience Manager的GenAI代理](../contents/2026/genai-agents-aem.md)
+  + Adobe Experience Manager的{hide-from-toc}[GenAI代理](../contents/2026/genai-agents-aem.md)
   + {hide-from-toc}[生成AJO用例并对其进行优先排序](../contents/2026/ajo-use-cases.md)
   + {hide-from-toc}[为什么您需要Workfront中的统一审阅和批准](../contents/2026/unified-review-approvals-workfront.md)
   + {hide-from-toc}[Audience Agent和Data Insights Agent](../contents/2026/scaling-ai-agents.md)
@@ -43,15 +43,15 @@ ht-degree: 0%
   + {hide-from-toc}[缩放Adobe代理 — Brand Experience Agent](../contents/2026/brand-experience-agent.md)
   + {hide-from-toc}[数据收集疑难解答](../contents/2026/data-collection-troubleshooting.md)
   + {hide-from-toc}[Adobe Analytics到Customer Journey Analytics迁移路线图](../contents/2026/aa-to-cja-migration-roadmap.md)
-  + {hide-from-toc}[适用于移动应用程序Personalization的CJA4T](../contents/2026/cja4t-mobile-app-personalization.md)
+  + 适用于移动应用程序Personalization的{hide-from-toc}[CJA4T](../contents/2026/cja4t-mobile-app-personalization.md)
   + {hide-from-toc}[Adobe的AI和代理架构](../contents/2026/understand-adobe-ai-agentic-architecture.md)
-  + {hide-from-toc}[适用于Adobe Workfront的可伸缩运营模型](../contents/2026/scalable-operating-model.md)
+  + 适用于Adobe Workfront的{hide-from-toc}[可伸缩运营模型](../contents/2026/scalable-operating-model.md)
   + {hide-from-toc}[Adobe Customer Journey Analytics拼接](../contents/2026/cja-stitching.md)
   + {hide-from-toc}[将用例转换为业务成果](../contents/2026/use-cases-into-business-outcomes.md)
   + {hide-from-toc}[AJO产品发布会话](../contents/2026/ajo-product-relelase-session.md)
-  + {hide-from-toc}[Adobe Experience Manager Assets中的AI功能](../contents/2026/ai-features-aem-assets.md)
+  + Adobe Experience Manager Assets中的{hide-from-toc}[AI功能](../contents/2026/ai-features-aem-assets.md)
   + {hide-from-toc}[Marketo Engage潜在客户管理最佳实践](../contents/2026/marketo-lead-management-best-practices.md)
-  + {hide-from-toc}[使用Adobe Mix Modeler做出更明智的营销决策](../contents/2026/smarter-marketing-mix-modeler.md)
+  + 使用Adobe Mix Modeler做出更明智的营销决策{hide-from-toc}[](../contents/2026/smarter-marketing-mix-modeler.md)
   + {hide-from-toc}[从Workfront Planning中获取更多信息](../contents/2026/get-more-from-workfront-planning.md)
   + {hide-from-toc}[Adobe Commerce可观察性和监视最佳实践](../contents/2026/commerce-observability-monitoring.md)
   + {hide-from-toc}[CXO成功的战略规划](../contents/2026/strategic-planning-cxo-success.md)
@@ -67,4 +67,8 @@ ht-degree: 0%
   + {hide-from-toc}[将AI代理投资连接到业务影响](../contents/2026/ai-agentic-investments-to-business-impact.md)
   + {hide-from-toc}[可持续的AI采用](../contents/2026/sustainable-ai-adoption.md)
   + {hide-from-toc}[Marketo AI Toolkit](../contents/2026/marketo-ai-toolkit.md)
+  + {hide-from-toc}[AJO疑难解答](../contents/2026/ajo-troubleshooting.md)
+  + {hide-from-toc}[Adobe同事 — 您的AI队友](../contents/2026/coworker-ai-teammate.md)
+  + {hide-from-toc}[将Analytics分析转换为试验积压工作](../contents/2026/analytics-insights-experimentation-backlog.md)
+  + {hide-from-toc}[Adobe AI代理正在实践](../contents/2026/adobe-ai-agents-in-practice.md)
 
