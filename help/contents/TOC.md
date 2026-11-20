@@ -3,9 +3,9 @@ user-guide-title: Ultimate Success网络研讨会库
 breadcrumb-title: Ultimate Success网络研讨会库
 user-guide-description: 访问我们为Ultimate Success客户提供的由专家主导的独家网络研讨会库，快速掌握可带来可衡量的业务成效的战略和技术最佳实践。
 nudge: true
-source-git-commit: 188e08d27f491403f2f1597e85b3f23863f71659
+source-git-commit: 35b838f2553e462a3f6e4f202e7440e049adef2f
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '322'
 ht-degree: 0%
 ---
 
@@ -71,4 +71,5 @@ ht-degree: 0%
   + {hide-from-toc}[Adobe同事 — 您的AI队友](../contents/2026/coworker-ai-teammate.md)
   + {hide-from-toc}[将Analytics分析转换为试验积压工作](../contents/2026/analytics-insights-experimentation-backlog.md)
   + {hide-from-toc}[Adobe AI代理正在实践](../contents/2026/adobe-ai-agents-in-practice.md)
+  + {hide-from-toc}[RTCDP卓越中心](..//contents/2026/rtcdp-center-of-excellence.md)
 
