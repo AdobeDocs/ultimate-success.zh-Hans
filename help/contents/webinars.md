@@ -3598,7 +3598,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="..//contents/2026/rtcdp-center-of-excellence.md" title="为企业规模设计RTCDP卓越中心" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3508597/?format=jpeg&nocache=1795191967703" alt="为企业规模设计RTCDP卓越中心"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3508606/?captions=chi_hans&format=jpeg&nocache=1795191967703" alt="为企业规模设计RTCDP卓越中心"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

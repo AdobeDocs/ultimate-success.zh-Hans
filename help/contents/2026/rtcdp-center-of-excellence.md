@@ -22,7 +22,7 @@ ht-degree: 1%
 
 如何将受众复杂性转化为协调操作？ 这一实用的会议为企业架构师和平台所有者提供了一个框架，用于围绕Adobe Experience Platform和Real-Time CDP组织团队、所有权、治理、激活和衡量，以使业务部门能够以更高的明确性和责任感开展合作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3508597/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508606/?captions=chi_hans&learn=on&enablevpops)
 
 ## 关键要点
 
